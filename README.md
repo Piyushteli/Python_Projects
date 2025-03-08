@@ -1,4 +1,5 @@
 **Python Projects Collection**
+
 Welcome to my Python projects repository! 🚀 This collection showcases a variety of projects where I have applied my programming skills, problem-solving abilities, and creativity. Each project is designed to demonstrate different aspects of Python, from basic logic implementation to real-world applications.
 
 📌 Projects Included
